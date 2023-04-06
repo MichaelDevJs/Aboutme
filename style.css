@@ -127,6 +127,10 @@ img {
     align-items: center;
     justify-content: center;
     gap: 2rem;
+    writing-mode: vertical-lr;
+    top: 50%;
+    left: 50%;
+    transform: translate(-150%, -50%);
 }
 
 .landingPage .bottomRightSide a i {
