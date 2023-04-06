@@ -68,6 +68,18 @@ img {
     text-align: right;
 }
 
+.landingPage .background_video {
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    right: 2rem;
+
+    padding-right: 5rem;
+}
+
+
+
 .landingPage .navBar {
     display: flex;
     align-items: center;
