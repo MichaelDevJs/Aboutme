@@ -342,7 +342,7 @@ img {
 
 @media screen and (max-width: 480px) {
     .landingPage .mainImage {
-        display: none;
+       
     }
 
     .landingPage .about_section .image_section {
